@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ameen-vp/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ameen-vp/leetcode/tree/master/0137-single-number-ii) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/ameen-vp/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Enumeration
@@ -29,5 +30,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ameen-vp/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ameen-vp/leetcode/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
