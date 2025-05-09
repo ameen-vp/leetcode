@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/ameen-vp/leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/ameen-vp/leetcode/tree/master/0260-single-number-iii) |
 | [1791-richest-customer-wealth](https://github.com/ameen-vp/leetcode/tree/master/1791-richest-customer-wealth) |
+| [2502-sort-the-people](https://github.com/ameen-vp/leetcode/tree/master/2502-sort-the-people) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/ameen-vp/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Enumeration
 |  |
@@ -39,4 +40,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/ameen-vp/leetcode/tree/master/1791-richest-customer-wealth) |
+## Hash Table
+|  |
+| ------- |
+| [2502-sort-the-people](https://github.com/ameen-vp/leetcode/tree/master/2502-sort-the-people) |
+## String
+|  |
+| ------- |
+| [2502-sort-the-people](https://github.com/ameen-vp/leetcode/tree/master/2502-sort-the-people) |
+## Sorting
+|  |
+| ------- |
+| [2502-sort-the-people](https://github.com/ameen-vp/leetcode/tree/master/2502-sort-the-people) |
 <!---LeetCode Topics End-->
