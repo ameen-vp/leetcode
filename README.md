@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/ameen-vp/leetcode/tree/master/0260-single-number-iii) |
 | [0948-sort-an-array](https://github.com/ameen-vp/leetcode/tree/master/0948-sort-an-array) |
 | [1791-richest-customer-wealth](https://github.com/ameen-vp/leetcode/tree/master/1791-richest-customer-wealth) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/ameen-vp/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2502-sort-the-people](https://github.com/ameen-vp/leetcode/tree/master/2502-sort-the-people) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/ameen-vp/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Enumeration
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ameen-vp/leetcode/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/ameen-vp/leetcode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/ameen-vp/leetcode/tree/master/0812-rotate-string) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/ameen-vp/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2502-sort-the-people](https://github.com/ameen-vp/leetcode/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
