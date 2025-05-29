@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ameen-vp/leetcode/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/ameen-vp/leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/ameen-vp/leetcode/tree/master/0367-valid-perfect-square) |
+| [3227-find-missing-and-repeated-values](https://github.com/ameen-vp/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ameen-vp/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2502-sort-the-people](https://github.com/ameen-vp/leetcode/tree/master/2502-sort-the-people) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/ameen-vp/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3227-find-missing-and-repeated-values](https://github.com/ameen-vp/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Enumeration
 |  |
 | ------- |
@@ -45,10 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/ameen-vp/leetcode/tree/master/1791-richest-customer-wealth) |
+| [3227-find-missing-and-repeated-values](https://github.com/ameen-vp/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
 | [2502-sort-the-people](https://github.com/ameen-vp/leetcode/tree/master/2502-sort-the-people) |
+| [3227-find-missing-and-repeated-values](https://github.com/ameen-vp/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
