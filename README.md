@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/ameen-vp/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ameen-vp/leetcode/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/ameen-vp/leetcode/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/ameen-vp/leetcode/tree/master/0260-single-number-iii) |
 ## Matrix
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/ameen-vp/leetcode/tree/master/0191-number-of-1-bits) |
 | [0948-sort-an-array](https://github.com/ameen-vp/leetcode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
