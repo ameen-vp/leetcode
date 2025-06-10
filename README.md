@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ameen-vp/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ameen-vp/leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/ameen-vp/leetcode/tree/master/0260-single-number-iii) |
+| [0283-move-zeroes](https://github.com/ameen-vp/leetcode/tree/master/0283-move-zeroes) |
 | [0948-sort-an-array](https://github.com/ameen-vp/leetcode/tree/master/0948-sort-an-array) |
 | [1791-richest-customer-wealth](https://github.com/ameen-vp/leetcode/tree/master/1791-richest-customer-wealth) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ameen-vp/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ameen-vp/leetcode/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/ameen-vp/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ameen-vp/leetcode/tree/master/0344-reverse-string) |
 | [2551-apply-operations-to-an-array](https://github.com/ameen-vp/leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## String Matching
