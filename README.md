@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/ameen-vp/leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/ameen-vp/leetcode/tree/master/0367-valid-perfect-square) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ameen-vp/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Array
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ameen-vp/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2502-sort-the-people](https://github.com/ameen-vp/leetcode/tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/ameen-vp/leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ameen-vp/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/ameen-vp/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/ameen-vp/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Enumeration
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/ameen-vp/leetcode/tree/master/0948-sort-an-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ameen-vp/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
 | ------- |
