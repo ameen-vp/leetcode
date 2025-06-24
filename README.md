@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ameen-vp/leetcode/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/ameen-vp/leetcode/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/ameen-vp/leetcode/tree/master/0948-sort-an-array) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/ameen-vp/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1791-richest-customer-wealth](https://github.com/ameen-vp/leetcode/tree/master/1791-richest-customer-wealth) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ameen-vp/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ameen-vp/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1741-sort-array-by-increasing-frequency](https://github.com/ameen-vp/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ameen-vp/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2502-sort-the-people](https://github.com/ameen-vp/leetcode/tree/master/2502-sort-the-people) |
 | [3227-find-missing-and-repeated-values](https://github.com/ameen-vp/leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/ameen-vp/leetcode/tree/master/0075-sort-colors) |
 | [0948-sort-an-array](https://github.com/ameen-vp/leetcode/tree/master/0948-sort-an-array) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/ameen-vp/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/ameen-vp/leetcode/tree/master/2502-sort-the-people) |
 ## Divide and Conquer
 |  |
