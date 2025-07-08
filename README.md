@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/ameen-vp/leetcode/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/ameen-vp/leetcode/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/ameen-vp/leetcode/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/ameen-vp/leetcode/tree/master/0367-valid-perfect-square) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ameen-vp/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/ameen-vp/leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ameen-vp/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ameen-vp/leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/ameen-vp/leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/ameen-vp/leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/ameen-vp/leetcode/tree/master/0260-single-number-iii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ameen-vp/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Matrix
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2551-apply-operations-to-an-array](https://github.com/ameen-vp/leetcode/tree/master/2551-apply-operations-to-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ameen-vp/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
